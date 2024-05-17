@@ -53,6 +53,8 @@ Para hacer funcionar este proyecto necistarás añadir al menos la siguiente var
 ## Feedback
 
 Sabes que amo el feedback, si tienes cualquier idea o sugerencia, por favor, hazmela saber directamente en [atareao.es](https://atareao.es)
+## Modificación
+Esta es mi propio fork
 
 ## Licencia  
 
